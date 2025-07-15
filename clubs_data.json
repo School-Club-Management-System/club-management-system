@@ -1,0 +1,30 @@
+{
+  "fight club": {
+    "name": "Fight Club",
+    "description": "Do not talk about fight club",
+    "leader": "Tyler Durden",
+    "leader_id": "1999168",
+    "co_leader": "Jack",
+    "co_leader_id": "1999007",
+    "max_members": 50,
+    "members": [
+      {
+        "name": "David",
+        "id": "2000456",
+        "purpose": "Just for fun"
+      },
+      {
+        "name": "Paul",
+        "id": "2000177",
+        "purpose": "Mom told me to stop staring at my phone and go interact to outsiders."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Assembling day",
+        "date & place": "2025-07-10 at 10 p.m (Basement)",
+        "description": "Letting go of stress"
+      }
+    ]
+  }
+}
